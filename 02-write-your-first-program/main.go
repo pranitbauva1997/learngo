@@ -54,7 +54,7 @@ func main() {
 	// Because: Literal ~= Source Code
 
 	// EXERCISE: Remove the comments from below --> //
-	// fmt.Println("Merhaba Köstebek!")
+	fmt.Println("Merhaba Köstebek!")
 
 	// Unnecessary note:
 	// "Merhaba Köstebek" means "Hello Gopher"
